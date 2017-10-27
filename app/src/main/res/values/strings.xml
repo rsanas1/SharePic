@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharePic</string>
+    <string name="title_activity_user_list">UserListActivity</string>
+</resources>
